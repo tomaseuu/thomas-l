@@ -9,7 +9,7 @@ This site is a simple and clean reflection of who I am:
 
 ## How It is Built
 
-- **Tech Stack**: HTML/CSS/JavaScript (or any other technologies you're using)
+- **Tech Stack**: HTML | CSS | JavaScript
 - **Starter Template**: Hack4Impact Starter Pack
 
 ## Contact Me

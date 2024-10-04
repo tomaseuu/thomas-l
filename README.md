@@ -3,7 +3,11 @@
 Welcome to my personal website, built using the Hack4Impact Starter Pack!
 This is a space where I share more about myself, my interests, and what I am up to.
 
+<<<<<<< HEAD
 VISIT ME: https://thomas-l.github.io
+=======
+VISIT ME: https://tomaseuu.github.io/thomas-l/
+>>>>>>> origin/main
 
 ## ABOUT THIS SITE
 
